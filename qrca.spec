@@ -22,7 +22,10 @@ BuildRequires:	cmake(KF6Contacts)
 BuildRequires:	cmake(KF6CoreAddons)
 BuildRequires:	cmake(KF6Notifications)
 BuildRequires:	cmake(KF6Prison)
-BuildRequires:	cmake(KF6Config)
+BuildRequires:	cmake(KF6Service)
+BuildRequires:	cmake(KF6KIO)
+BuildRequires:	cmake(KF6Crash)
+BuildRequires:	cmake(KF6DBusAddons)
 
 %description
 QR code scanner and generator
