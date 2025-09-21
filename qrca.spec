@@ -16,6 +16,13 @@ BuildRequires:	cmake(Qt6Quick)
 BuildRequires:	cmake(Qt6Svg)
 BuildRequires:	cmake(Qt6Test)
 BuildRequires:	cmake(Qt6QuickControls2)
+BuildRequires:	cmake(KF6Kirigami)
+BuildRequires:	cmake(KF6I18n)
+BuildRequires:	cmake(KF6Contacts)
+BuildRequires:	cmake(KF6CoreAddons)
+BuildRequires:	cmake(KF6Notifications)
+BuildRequires:	cmake(KF6Prison)
+BuildRequires:	cmake(KF6Config)
 
 %description
 QR code scanner and generator
