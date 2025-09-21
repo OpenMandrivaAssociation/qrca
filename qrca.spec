@@ -11,6 +11,7 @@ BuildRequires:	cmake(ECM)
 BuildRequires:	cmake(Qt6Core)
 BuildRequires:	cmake(Qt6Qml)
 BuildRequires:	cmake(Qt6Quick)
+BuildRequires:	cmake(Qt6Test)
 
 %description
 QR code scanner and generator
