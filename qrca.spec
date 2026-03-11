@@ -27,6 +27,7 @@ BuildRequires:	cmake(KF6KIO)
 BuildRequires:	cmake(KF6Crash)
 BuildRequires:	cmake(KF6DBusAddons)
 BuildRequires:	cmake(KF6NetworkManagerQt)
+BuildRequires:	cmake(KF6KirigamiAddons)
 
 %description
 QR code scanner and generator
